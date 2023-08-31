@@ -1,0 +1,11 @@
+# Ignore compiled binaries
+*.exe
+*.dll
+
+# Ignore build directories
+/bin/
+/obj/
+
+# Ignore temporary files
+*.tmp
+*.temp
