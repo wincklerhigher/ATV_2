@@ -1,4 +1,4 @@
-# Ignore compiled binaries!
+# Ignore compiled binaries
 *.exe
 *.dll
 *.sln
