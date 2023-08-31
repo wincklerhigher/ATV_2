@@ -18,6 +18,8 @@
 - Apenas os usuários autenticados terão permissão para cadastrar novos pacotes de viagem.
 - Será implementada uma restrição de acesso para garantir que somente usuários logados possam acessar a funcionalidade de cadastro.
 
+## Observação: Para interligar as duas tabelas do banco de dados, utilizei chaves estrangeiras (foreign keys) para estabelecer relações entre os dados de forma consistente e eficiente. Isso nos permite manter a integridade e a coesão das informações armazenadas nas diferentes tabelas.
+
 Foi utilizado o ASP.NET Core MVC para criar uma interface web amigável e interativa, permitindo que os usuários realizem operações de maneira eficiente. O banco de dados MySQL será empregado para armazenar e gerenciar as informações relacionadas aos pacotes de viagem.
 
 ##
