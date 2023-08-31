@@ -1,6 +1,7 @@
 # Ignore compiled binaries
 *.exe
 *.dll
+*.sln
 
 # Ignore build directories
 /bin/
