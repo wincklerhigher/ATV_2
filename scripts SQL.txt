@@ -1,0 +1,23 @@
+CREATE TABLE Usuario (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    Nome VARCHAR(50) NOT NULL,
+    Login VARCHAR(50) NOT NULL,
+    Senha VARCHAR(50) NOT NULL,
+    DataNascimento DATETIME
+);
+
+
+CREATE TABLE PacotesTuristicos (
+    IdPacotes INT AUTO_INCREMENT PRIMARY KEY,
+    Nome VARCHAR(255),
+    Origem VARCHAR(100),
+    Destino VARCHAR(100),
+    Atrativos TEXT,
+    Saida DATE,
+    Retorno DATE,
+    Usuario INT,
+    IdPacoteFavorito INT,
+    FOREIGN KEY (Usuario) REFERENCES Usuario(Id) ON DELETE CASCADE,
+    FOREIGN KEY (IdPacoteFavorito) REFERENCES PacotesTuristicos(IdPacotes)
+);
+
