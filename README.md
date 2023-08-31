@@ -19,3 +19,6 @@
 - Será implementada uma restrição de acesso para garantir que somente usuários logados possam acessar a funcionalidade de cadastro.
 
 Foi utilizado o ASP.NET Core MVC para criar uma interface web amigável e interativa, permitindo que os usuários realizem operações de maneira eficiente. O banco de dados MySQL será empregado para armazenar e gerenciar as informações relacionadas aos pacotes de viagem.
+
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wincklerhigher&repo=Travel_Manager)
