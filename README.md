@@ -21,7 +21,3 @@
 Utilizei o ASP.NET Core MVC para criar uma interface web amigável e interativa, permitindo que os usuários realizem operações de maneira eficiente. O banco de dados MySQL será empregado para armazenar e gerenciar as informações relacionadas aos pacotes de viagem.
 
 > **Observação: Para interligar as duas tabelas do banco de dados, recorri ao uso de chaves estrangeiras (foreign keys) para estabelecer relações entre os dados de forma consistente e eficiente. Isso nos permite manter a integridade e a coesão das informações armazenadas nas diferentes tabelas.**
-
-##
-
-[![Top Languages](https://github-language-stats.vercel.app/api/top-langs/?username=wincklerhigher&repo=Travel_Manager)](https://github.com/wincklerhigher/Travel_Manager)
