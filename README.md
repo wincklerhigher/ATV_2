@@ -24,4 +24,4 @@ Utilizei o ASP.NET Core MVC para criar uma interface web amigável e interativa,
 
 ##
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wincklerhigher&repo=Travel_Manager)
+[![Top Languages](https://github-language-stats.vercel.app/api/top-langs/?username=wincklerhigher&repo=Travel_Manager)](https://github.com/wincklerhigher/Travel_Manager)
